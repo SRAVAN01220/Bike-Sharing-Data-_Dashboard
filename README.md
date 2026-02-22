@@ -6,7 +6,7 @@
 </a>
 </p>
 
- Click the red badge above to open the deployed Streamlit dashboard.
+ Click the badge above to open the deployed Streamlit dashboard.
 
 This interactive dashboard allows users to:
 - Explore dataset insights  
