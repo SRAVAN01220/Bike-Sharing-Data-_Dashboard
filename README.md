@@ -8,7 +8,7 @@
 
 ###  Live Application Access
 
-🔗 Click the red badge above to open the deployed Streamlit dashboard.
+ Click the red badge above to open the deployed Streamlit dashboard.
 
 This interactive dashboard allows users to:
 - Explore dataset insights  
@@ -18,7 +18,7 @@ This interactive dashboard allows users to:
 
 ---
 
-### 🛠 Built With
+###  Built With
 - Python  
 - Streamlit  
 - Pandas  
@@ -26,7 +26,7 @@ This interactive dashboard allows users to:
 
 ---
 
-### 📌 Note
+###  Note
 The dashboard is deployed online via Streamlit.  
 If the app takes a few seconds to load, please wait while the server wakes up.
 
